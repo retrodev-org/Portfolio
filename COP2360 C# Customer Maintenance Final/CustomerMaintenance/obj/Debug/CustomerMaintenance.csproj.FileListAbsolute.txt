@@ -1,0 +1,28 @@
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 13\Ex 13-1 CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 13\Ex 13-1 CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.pdb
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 13\Ex 13-1 CustomerMaintenance\CustomerMaintenance\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 13\Ex 13-1 CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddCustomer.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 13\Ex 13-1 CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomers.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 13\Ex 13-1 CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 13\Ex 13-1 CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.GenerateResource.Cache
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 13\Ex 13-1 CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 13\Ex 13-1 CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb
+C:\Murach\C# 2010\Exercise solutions\Chapter 13\Ex 13-1 CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+C:\Murach\C# 2010\Exercise solutions\Chapter 13\Ex 13-1 CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb
+C:\Murach\C# 2010\Exercise solutions\Chapter 13\Ex 13-1 CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe
+C:\Murach\C# 2010\Exercise solutions\Chapter 13\Ex 13-1 CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.pdb
+C:\Murach\C# 2010\Exercise solutions\Chapter 13\Ex 13-1 CustomerMaintenance\CustomerMaintenance\obj\Debug\ResolveAssemblyReference.cache
+C:\Murach\C# 2010\Exercise solutions\Chapter 13\Ex 13-1 CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddCustomer.resources
+C:\Murach\C# 2010\Exercise solutions\Chapter 13\Ex 13-1 CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomers.resources
+C:\Murach\C# 2010\Exercise solutions\Chapter 13\Ex 13-1 CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+C:\Murach\C# 2010\Exercise solutions\Chapter 13\Ex 13-1 CustomerMaintenance\CustomerMaintenance\obj\Debug\GenerateResource.read.1.tlog
+C:\Murach\C# 2010\Exercise solutions\Chapter 13\Ex 13-1 CustomerMaintenance\CustomerMaintenance\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\JamesWalker\Documents\Visual Studio 2012\Projects\COP2360_Week13_CustomerMaint\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+C:\Users\JamesWalker\Documents\Visual Studio 2012\Projects\COP2360_Week13_CustomerMaint\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb
+C:\Users\JamesWalker\Documents\Visual Studio 2012\Projects\COP2360_Week13_CustomerMaint\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe
+C:\Users\JamesWalker\Documents\Visual Studio 2012\Projects\COP2360_Week13_CustomerMaint\CustomerMaintenance\bin\Debug\CustomerMaintenance.pdb
+C:\Users\JamesWalker\Documents\Visual Studio 2012\Projects\COP2360_Week13_CustomerMaint\CustomerMaintenance\obj\Debug\CustomerMaintenance.csprojResolveAssemblyReference.cache
+C:\Users\JamesWalker\Documents\Visual Studio 2012\Projects\COP2360_Week13_CustomerMaint\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddCustomer.resources
+C:\Users\JamesWalker\Documents\Visual Studio 2012\Projects\COP2360_Week13_CustomerMaint\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomers.resources
+C:\Users\JamesWalker\Documents\Visual Studio 2012\Projects\COP2360_Week13_CustomerMaint\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+C:\Users\JamesWalker\Documents\Visual Studio 2012\Projects\COP2360_Week13_CustomerMaint\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.GenerateResource.Cache
